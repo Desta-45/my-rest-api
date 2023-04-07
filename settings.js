@@ -4,7 +4,7 @@ global.creator = 'DSTXYZ'// yourname
 global.MONGO_DB_URI = "1mongodb+srv://dsxbot:desta163@cluster0.koqxezc.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
 global.your_email = "dsxbot1@gmail.com" //email
-global.email_password = "dhtljkuavtlyspxd" //application password email
+global . email_password  =  "tsftyawfwthciacy"  //kata sandi aplikasi email
 global.limitCount = 10000
 global.YUOR_PORT = 8000
 global.loghandler = {
